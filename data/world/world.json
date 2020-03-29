@@ -1,0 +1,25 @@
+{
+  "fame":{
+    "reputation":0,
+    "bounty":0
+  },
+  "customVariables":[],
+  "general":{
+    "currentMpNum":0
+  },
+  "kills":[],
+  "factionRanks":[],
+  "factionReputation":[],
+  "journal":[],
+  "mapExplored":[],
+  "time":{
+    "day":16,
+    "timeScale":30,
+    "daysPassed":1,
+    "year":427,
+    "month":7,
+    "hour":9
+  },
+  "topics":[],
+  "factionExpulsion":[]
+}
